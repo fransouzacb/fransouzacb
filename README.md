@@ -36,8 +36,8 @@
 
 <div align="center">
 <h2>Github Stats</h2>
-    <a href="https://github.com/fransouzacb/github-readme-stats"><img alt="fransouzacb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fransouzacb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/fransouzacb/github-readme-stats"><img alt="fransouzacb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransouzacb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/fransouzacb/github-readme-stats-sigma-five"><img alt="fransouzacb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fransouzacb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/fransouzacb/github-readme-stats-sigma-five"><img alt="fransouzacb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransouzacb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>

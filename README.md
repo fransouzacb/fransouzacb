@@ -1,11 +1,3 @@
-<style>
-.text-about {
-    color: #ccc;
-    font-weight:300;
-    font-size: 1.35rem;
-}
-</style>
-
 ![banner](https://drive.google.com/uc?export=view&id=1UwjjwBLGkuNdUW40z5m1g0-6NvtqNerc)
 
 <h1 align ="center">Hi, I'm Francisco Souza 👋</h1>
@@ -44,15 +36,15 @@
 
 <div align="center">
 <h2>Github Stats</h2>
-    <a href="https://github.com/RanielliMontagna/github-readme-stats"><img alt="RanielliMontagna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RanielliMontagna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/RanielliMontagna/github-readme-stats"><img alt="RanielliMontagna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanielliMontagna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/fransouzacb/github-readme-stats"><img alt="fransouzacb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=fransouzacb&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/fransouzacb/github-readme-stats"><img alt="fransouzacb's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fransouzacb&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
 
 ## ❤ Followers
 
-<a href="https://github.com/RanielliMontagna?tab=followers"><img src="https://img.shields.io/github/followers/RanielliMontagna?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/fransouzacb?tab=followers"><img src="https://img.shields.io/github/followers/fransouzacb?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ---
 
